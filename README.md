@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Elserougi</h1>
 <h3 align="center">A competent and reliable programmer</h3>
-<img align="centre" alt="Coding" width="300" src="https://instagram.com/coding.ninjas?igshid=1q6tjorvxtttj">
+<img align="centre" alt="Coding" width="300" src="<iframe src="https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5">via GIPHY</a></p>">
 
 - 🌱 I’m currently learning **Frameworks, Java, PHP**
 
