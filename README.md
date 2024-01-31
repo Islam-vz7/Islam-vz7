@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Elserougi</h1>
 <h3 align="center">A competent and reliable programmer</h3>
+<img align="centre" alt="Coding" width="300" src="https://instagram.com/coding.ninjas?igshid=1q6tjorvxtttj">
 
 - 🌱 I’m currently learning **Frameworks, Java, PHP**
 
