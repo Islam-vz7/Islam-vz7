@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **islam.elserougi.7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-xKb91pnkZXwEphpAimOA0hoX6SG1bqq/view?usp=sharing](https://drive.google.com/file/d/1-xKb91pnkZXwEphpAimOA0hoX6SG1bqq/view?usp=sharing)
-
 - ⚡ Fun fact **Kindly Honest**
 
 <h3 align="left">Connect with me:</h3>
