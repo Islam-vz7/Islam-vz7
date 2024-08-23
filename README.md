@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJhbHF3bjQ2dDJlODdqOG9hcDIxaXBuMWh4a3JlajJrbHlrbGE3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning **Frameworks, Java, PHP**
+- 🌱 I’m currently learning **Frameworks, MySQL, PHP, Laravel**
 
 - 📫 How to reach me **islam.elserougi.7@gmail.com**
 
