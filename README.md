@@ -1,6 +1,7 @@
 ## <h1 align="center">Hi, I'm Islam Elserougi</h1>
-## <h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
 
+##
 Welcome to my GitHub!
 I am a Driven Computer Science student with expertise in software development, data analysis, and problem-solving. Skilled at identifying opportunities for optimization and delivering impactful solutions. A strong communicator and team collaborator, eager to contribute technical knowledge in innovative, dynamic settings.
 
