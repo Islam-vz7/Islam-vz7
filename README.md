@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm Islam Elserougi</h1>
-<h3 align="center">A competent and reliable programmer</h3>
+## <h1 align="center">Hi, I'm Islam Elserougi</h1>
+<h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **Frameworks, Advanced Laravel, Bootstrap**
+Welcome to my GitHub!
+I am a Driven Computer Science student with expertise in software development, data analysis, and problem-solving. Skilled at identifying opportunities for optimization and delivering impactful solutions. A strong communicator and team collaborator, eager to contribute technical knowledge in innovative, dynamic settings.
 
-- 📫 How to reach me **islam.elserougi.7@gmail.com**
-
-- ⚡ Fun fact **Kindly Honest**
+🌱 I’m currently learning **Frameworks, Advanced Laravel, Bootstrap** <br />
+📫 How to reach me **islam.elserougi.7@gmail.com** <br />
+⚡ Fun fact **Kindly Honest** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,9 +14,38 @@
 <a href="https://github.com/islam-vz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="islam-elserougi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-vz7&show_icons=true&theme=onedark&title_color=3abbb9&locale=en&layout=compact" alt="islam-vz7" /></p>
+## Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam-vz7&theme=dark" alt="islam-vz7" /></p>
+<img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
+<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+<img align="left" alt="HTML" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+<img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+<img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+<img align="left" alt="SQL" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" />
+<img align="left" alt="MySQL" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+
+
+<br /><br />
+
+## Tools
+
+<img align="left" alt="Bash" width="25px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<img align="left" alt="Docker" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Flask" width="25px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
+<img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Laravel" width="25px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
+<img align="left" alt="Linux" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="NGINX" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<img align="left" alt="Oracle" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="Tailwind" width="25px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+
+
+
+<br /><br />
+
+
+## Skills & Technologies 
+- **Technologies**: Software Development, Web Development, Teamwork & Collaboration, Problem-Solving, Team Leader, Written & Verbal Communication
+- **Software Testing**: JUnit, SQL testing (PL/SQL, DDL)
+- **Software Methodologies**: Agile
