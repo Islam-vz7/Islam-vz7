@@ -24,7 +24,7 @@ I am a Driven Computer Science student with expertise in software development, d
 <img align="left" alt="CSS" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
 <img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 <img align="left" alt="SQL" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" />
-<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 
 <br /><br />
