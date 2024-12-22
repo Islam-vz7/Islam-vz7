@@ -47,7 +47,7 @@ I am a Driven Computer Science student with expertise in software development, d
 
 
 ## Skills & Technologies 
-- **Technologies**: Software Development, Web Development, Teamwork & Collaboration, Problem-Solving, Team Leader, Written & Verbal Communication
+- **Skills**: Software Development, Web Development, Teamwork & Collaboration, Problem-Solving, Team Leader, Written & Verbal Communication
 - **Software Testing**: JUnit, SQL testing (PL/SQL, DDL)
 - **Software Methodologies**: Agile
 
