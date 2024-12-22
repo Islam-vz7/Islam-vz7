@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi, I'm Islam Elserougi</h1>
-<h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
+## <h3 align="center">BSc Computer Science Student | Aspiring Software Developer</h3>
 
 Welcome to my GitHub!
 I am a Driven Computer Science student with expertise in software development, data analysis, and problem-solving. Skilled at identifying opportunities for optimization and delivering impactful solutions. A strong communicator and team collaborator, eager to contribute technical knowledge in innovative, dynamic settings.
@@ -49,3 +49,6 @@ I am a Driven Computer Science student with expertise in software development, d
 - **Technologies**: Software Development, Web Development, Teamwork & Collaboration, Problem-Solving, Team Leader, Written & Verbal Communication
 - **Software Testing**: JUnit, SQL testing (PL/SQL, DDL)
 - **Software Methodologies**: Agile
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-vz7&show_icons=true&theme=onedark&title_color=3abbb9&locale=en&layout=compact" alt="islam-vz7" /></p>
