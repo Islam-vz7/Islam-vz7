@@ -15,6 +15,7 @@ I am a Driven Computer Science student with expertise in software development, d
 <p align="left">
 <a href="https://linkedin.com/in/islam-elserougi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-elserougi" height="30" width="40" /></a>
 <a href="https://github.com/islam-vz7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="islam-elserougi" height="30" width="40" /></a>
+<a href="https://www.islamelserougi.com" target="blank"><img align="center" src="logo.png" alt="islam-elserougi" height="30" width="40" /></a>
 </p>
 
 
