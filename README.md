@@ -7,8 +7,8 @@ I am a Driven Computer Science student with expertise in software development, d
 
 🌱 I’m currently learning **Frameworks, Advanced Laravel, Bootstrap** <br />
 📫 How to reach me **islam.elserougi.7@gmail.com** <br />
-⚡ Fun fact **Kindly Honest**
-🌐 My website **www.islamelserougi.com** <br />
+⚡ Fun fact **Kindly Honest** <br />
+🌐 My website **islamelserougi.com** 
 
 
 <h3 align="left">Connect with me:</h3>
